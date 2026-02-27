@@ -17,4 +17,4 @@
 系统的产出是精细化的二次创作，也深度学习了平台的原创规则，99% 通过原创审核。
 
 ## 联系方式
-[img]https://writing.yituihuo.com/weixin.png[/img]
+[[img]https://writing.yituihuo.com/weixin.png[/img]](https://github.com/leijunjun/ViralTeardown/blob/main/image.png?raw=true)
